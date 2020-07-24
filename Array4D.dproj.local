@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/07/22 21:06:20.000.817,=rtl.dcp</Transaction>
+    <Transaction>2020/07/22 21:08:47.000.065,C:\Users\Gabriel e Alcione\OneDrive\Documentos\Embarcadero\Studio\Projects\Package1.dproj=D:\Desenvolvimento\Fontes\07_Componentes\02_Array4Delphi\Array4D.dproj</Transaction>
+    <Transaction>2020/07/22 21:08:53.000.148,=D:\Desenvolvimento\Fontes\07_Componentes\02_Array4Delphi\src\Array4Delphi.pas</Transaction>
+    <Transaction>2020/07/22 21:20:30.000.771,D:\Desenvolvimento\Fontes\07_Componentes\02_Array4Delphi\src\Array4Delphi.pas=</Transaction>
+    <Transaction>2020/07/22 21:20:36.000.605,=D:\Desenvolvimento\Fontes\07_Componentes\02_Array4Delphi\Unit1.pas</Transaction>
+    <Transaction>2020/07/22 21:20:49.000.732,D:\Desenvolvimento\Fontes\07_Componentes\02_Array4Delphi\Unit1.pas=D:\Desenvolvimento\Fontes\07_Componentes\02_Array4Delphi\src\ApiArray4D.pas</Transaction>
+    <Transaction>2020/07/22 21:33:04.000.774,D:\Desenvolvimento\Fontes\07_Componentes\02_Array4Delphi\src\ApiArray4D.pas=D:\Desenvolvimento\Fontes\07_Componentes\02_Array4Delphi\src\Plus.ApiArray4D.pas</Transaction>
+    <Transaction>2020/07/24 18:19:53.000.236,=D:\Desenvolvimento\Fontes\07_Componentes\02_Array4Delphi\Unit1.pas</Transaction>
+    <Transaction>2020/07/24 18:20:09.000.912,D:\Desenvolvimento\Fontes\07_Componentes\02_Array4Delphi\Unit1.pas=D:\Desenvolvimento\Fontes\07_Componentes\02_Array4Delphi\src\Plus.ApiArray4D.Interfaces.pas</Transaction>
+    <Transaction>2020/07/24 18:27:25.000.052,D:\Desenvolvimento\Fontes\07_Componentes\02_Array4Delphi\Array4D.dproj=D:\Desenvolvimento\Fontes\07_Componentes\03_Array4D\Array4D.dproj</Transaction>
+    <Transaction>2020/07/24 18:27:48.000.111,D:\Desenvolvimento\Fontes\07_Componentes\02_Array4Delphi\src\Plus.ApiArray4D.Interfaces.pas=D:\Desenvolvimento\Fontes\07_Componentes\03_Array4D\src\Plus.ApiArray4D.Interfaces.pas</Transaction>
+    <Transaction>2020/07/24 18:28:32.000.589,D:\Desenvolvimento\Fontes\07_Componentes\02_Array4Delphi\src\Plus.ApiArray4D.pas=D:\Desenvolvimento\Fontes\07_Componentes\03_Array4D\src\Plus.ApiArray4D.pas</Transaction>
+    <Transaction>2020/07/24 20:08:52.849,D:\Desenvolvimento\Fontes\07_Componentes\03_Array4D\Array4Delphi\src\Plus.ApiArray4D.pas=D:\Desenvolvimento\Fontes\07_Componentes\03_Array4D\src\Plus.ApiArray4D.pas</Transaction>
+    <Transaction>2020/07/24 20:09:15.000,D:\Desenvolvimento\Fontes\07_Componentes\03_Array4D\Array4Delphi\src\Plus.ApiArray4D.Interfaces.pas=D:\Desenvolvimento\Fontes\07_Componentes\03_Array4D\src\Plus.ApiArray4D.Interfaces.pas</Transaction>
+    <Transaction>2020/07/24 20:09:23.159,D:\Desenvolvimento\Fontes\07_Componentes\03_Array4D\Array4Delphi\Array4D.dproj=D:\Desenvolvimento\Fontes\07_Componentes\03_Array4D\Array4D.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
