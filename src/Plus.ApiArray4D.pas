@@ -48,6 +48,10 @@ type
     function Contains(const aValue: double): Boolean; overload;
   end;
 
+const
+
+  version = '1.0.1';
+
 implementation
 
 uses
@@ -208,7 +212,7 @@ var
   I: Integer;
 begin
   Result := Self;
-  SetLength(FArrayInteger, High(lArray) + 1);
+  SetLength(FArrayInteger, Length(lArray));
   for I := 0 to High(lArray) do
   begin
     FArrayInteger[I] := lArray[I];
@@ -220,7 +224,7 @@ var
   I: Integer;
 begin
   Result := Self;
-  SetLength(FArrayCurrency, High(lArray) + 1);
+  SetLength(FArrayCurrency, Length(lArray));
   for I := 0 to High(lArray) do
   begin
     FArrayCurrency[I] := lArray[I];
@@ -232,7 +236,7 @@ var
   I: Integer;
 begin
   Result := Self;
-  SetLength(FArrayCurrency, High(lArray) + 1);
+  SetLength(FArrayCurrency, Length(lArray));
   for I := 0 to High(lArray) do
   begin
     FArrayCurrency[I] := lArray[I];
@@ -244,7 +248,7 @@ var
   I: Integer;
 begin
   Result := Self;
-  SetLength(FArrayString, High(lArray) + 1);
+  SetLength(FArrayString, Length(lArray));
   for I := 0 to High(lArray) do
   begin
     FArrayString[I] := lArray[I];
@@ -256,7 +260,7 @@ var
   I: Integer;
 begin
   Result := Self;
-  SetLength(FArrayString, High(lArray) + 1);
+  SetLength(FArrayString, Length(lArray));
   for I := 0 to High(lArray) do
   begin
     FArrayString[I] := lArray[I];
@@ -268,7 +272,7 @@ var
   I: Integer;
 begin
   Result := Self;
-  SetLength(FArrayInteger, High(lArray) + 1);
+  SetLength(FArrayInteger, Length(lArray));
   for I := 0 to High(lArray) do
   begin
     FArrayInteger[I] := lArray[I];
@@ -280,7 +284,7 @@ var
   I: Integer;
 begin
   Result := Self;
-  SetLength(FArrayDouble, High(lArray) + 1);
+  SetLength(FArrayDouble, Length(lArray));
   for I := 0 to High(lArray) do
   begin
     FArrayDouble[I] := lArray[I];
@@ -292,7 +296,7 @@ var
   I: Integer;
 begin
   Result := Self;
-  SetLength(FArrayDouble, High(lArray) + 1);
+  SetLength(FArrayDouble, Length(lArray));
   for I := 0 to High(lArray) do
   begin
     FArrayDouble[I] := lArray[I];
